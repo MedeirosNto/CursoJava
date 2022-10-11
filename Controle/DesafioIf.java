@@ -14,3 +14,4 @@ public class DesafioIf {
         System.out.println("Sua nota é: " + nota);
     }
 }
+// Não usar ; em estruturas de controle
