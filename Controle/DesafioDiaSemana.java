@@ -25,7 +25,9 @@ public class DesafioDiaSemana {
                                 System.out.println("6");
                             } else if(dia.equalsIgnoreCase("sábado")) {
                                     System.out.println("7");
-                                }
+                                } else {
+                                        System.out.println("Dia Inválido!");
+        }
         entrada.close();
     }
 }
